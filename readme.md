@@ -23,5 +23,6 @@ The frontend framework for the app is React, using an express server to communic
 ## Starting the app
 
 `cd` into the `frontend` directory and run: `npm install` followed by `npm start`
+
 `cd` into the `backend_node` directory and run: `npm install` followed by `npm run server:dev`
 
